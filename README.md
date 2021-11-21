@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋!  I am Adryan Eka Vandra</h1>
 <h3 align="center"> A Mobile Developer | Flutter, Kotlin</h3>
-<p align="center">Sometimes Fullstack Developer too!</small>
+<p align="center"><i>Sometimes Fullstack Developer too!</i></p>
 
 <div align="center">
   
