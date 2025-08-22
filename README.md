@@ -79,19 +79,16 @@
 - Full‑Stack: building end‑to‑end features, improving DX, and automating workflows
 
 ## Toolbox
-- Languages: Go, TypeScript/JavaScript, Dart, Kotlin, Python
-- Backend/Frameworks: Node.js, Express/Fastify, gRPC/REST, GraphQL
-- Mobile: Flutter, Android (Kotlin)
-- Datastores: PostgreSQL, MySQL, Redis
-- Cloud/Infra: Docker, Kubernetes, GitHub Actions, AWS/GCP
-- Testing/Quality: Jest, Go test, Flutter test, Postman/Newman, k6
-
-<sub>Note: If you're reading this and we've worked together, feel free to suggest updates or corrections via PR ✨</sub>
+- Languages: Go, TypeScript/JavaScript, Dart, Kotlin, Swift, Python, PHP
+- Backend/Frameworks: Chi, Node.js, Django, gRPC/REST
+- Mobile: Flutter, Android (Kotlin), iOS (Swift)
+- Datastores: PostgreSQL, MySQL, Redis, MongoDB, SQLite
+- Cloud/Infra: Docker, Kubernetes, GitHub Actions, Terraform, Ansible
 
 ## Recent focus
-- Shipping robust CI/CD pipelines and improving release reliability
-- Strengthening test strategies (unit, integration, E2E) and monitoring
-- Performance profiling and cost‑aware architecture
+- Developing Native iOS Apps
+- Contributing to Open Source Project, CinemataCMS
+- Building a Robust Software with Lexicon
 
 ## Featured work
 - Explore my pinned repositories below for selected projects and experiments.
@@ -100,8 +97,9 @@
 ## Get in touch
 - Email: adryanekavandra@protonmail.com
 - GitHub: github.com/adryanev
+- LinkedIn: https://www.linkedin.com/in/adryanev
+
 <!-- Add your socials if you'd like:
-- LinkedIn: https://www.linkedin.com/in/your-handle
 - X/Twitter: https://twitter.com/your-handle
 - Personal site: https://yourdomain.com
 -->
